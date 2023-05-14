@@ -1,4 +1,1 @@
-# java_sample
-# java_sample
-# java_sample
-# java_sample
+Functions created to solve practce java problems
